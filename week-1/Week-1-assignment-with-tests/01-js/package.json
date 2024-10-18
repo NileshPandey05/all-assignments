@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test-anagram": "npx jest ./tests/anagram.test.js",
+    "test-findLargestElement": "npx jest ./tests/findLargestElement.test.js",
     "test-calculator": "npx jest ./tests/calculator.test.js",
     "test-duplicate-transactions": "npx jest ./tests/duplicate-transactions.test.js",
     "test-expenditure-analysis": "npx jest ./tests/expenditure-analysis.test.js",
